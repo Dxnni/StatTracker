@@ -1,0 +1,14 @@
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\bin\Debug\netcoreapp2.1\StatTracker.deps.json
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\bin\Debug\netcoreapp2.1\StatTracker.runtimeconfig.json
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\bin\Debug\netcoreapp2.1\StatTracker.runtimeconfig.dev.json
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\bin\Debug\netcoreapp2.1\StatTracker.dll
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\bin\Debug\netcoreapp2.1\StatTracker.pdb
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.csprojAssemblyReference.cache
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.csproj.CoreCompileInputs.cache
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.RazorAssemblyInfo.cache
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.RazorAssemblyInfo.cs
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.AssemblyInfoInputs.cache
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.AssemblyInfo.cs
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.RazorTargetAssemblyInfo.cache
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.dll
+C:\Users\Bramw\Desktop\Items\Coding\StatTracker\obj\Debug\netcoreapp2.1\StatTracker.pdb
